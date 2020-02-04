@@ -1,0 +1,739 @@
+fileFormatVersion: 2
+guid: 162fa146ee545449e8467415479189d4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5754420512681968817
+    second: Teeth_L
+  - first:
+      213: 21953051423546766
+    second: Teeth_R
+  - first:
+      213: -5673618120071735642
+    second: Body
+  - first:
+      213: 4821343164171663738
+    second: Helmet
+  - first:
+      213: 5361357386958776873
+    second: Hair_1_L
+  - first:
+      213: 4455842073240035644
+    second: Hair_1_R
+  - first:
+      213: 536149313869313973
+    second: Hair_2_L
+  - first:
+      213: -5034606197691908342
+    second: Hair_2_R
+  - first:
+      213: 7573517944926693383
+    second: Lantern
+  - first:
+      213: 4134470982481670237
+    second: Head
+  - first:
+      213: -1087978334009483331
+    second: Pick
+  - first:
+      213: 7566850905532659034
+    second: Leg_L
+  - first:
+      213: -5589404826669784368
+    second: Feet_L
+  - first:
+      213: 6660334695681761772
+    second: Feet_R
+  - first:
+      213: -4133256247915656930
+    second: Leg_R
+  - first:
+      213: 8918266014200804159
+    second: Hand_L
+  - first:
+      213: 1864099957758329587
+    second: Hand_R
+  - first:
+      213: 228718350410794127
+    second: Arm_L
+  - first:
+      213: 6082866301378654860
+    second: Arm_R
+  - first:
+      213: 5671107614470373194
+    second: Tip_L
+  - first:
+      213: 7563934263933779001
+    second: Tip_R
+  - first:
+      213: 2585471672362418991
+    second: Eye_L
+  - first:
+      213: 1989635136803845380
+    second: Eye_R
+  - first:
+      213: -3337633190303562721
+    second: Mouth
+  - first:
+      213: 580948835330097298
+    second: Eyeb_L
+  - first:
+      213: -3157883734954086154
+    second: Eyeb_R
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Teeth_L
+      rect:
+        serializedVersion: 2
+        x: 8.999999
+        y: 951
+        width: 77
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6995542}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae053de0f2f404f5fbbfac5a03e77ccd
+      internalID: -5754420512681968817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teeth_R
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 951
+        width: 77
+        height: 119
+      alignment: 9
+      pivot: {x: 0.52467227, y: 0.6676251}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f647038b4edbf4c28a4d140e9f1aef1e
+      internalID: 21953051423546766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 880
+        width: 169
+        height: 198
+      alignment: 9
+      pivot: {x: 0.5615982, y: 0.18162182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60dec623a552748d486692a872f9de7c
+      internalID: -5673618120071735642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Helmet
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 908
+        width: 302
+        height: 166
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefceadb2e3544b56adf98a3a0ba0529
+      internalID: 4821343164171663738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair_1_L
+      rect:
+        serializedVersion: 2
+        x: 55.263752
+        y: 819
+        width: 29.999996
+        height: 79
+      alignment: 9
+      pivot: {x: 0.47025192, y: 0.16315007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bdc69895df8471bb7796f51b08f3ad
+      internalID: 5361357386958776873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair_1_R
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 821
+        width: 28
+        height: 77
+      alignment: 9
+      pivot: {x: 0.54704994, y: 0.15097879}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1d844e2007146b7b116b2a9f9c088e
+      internalID: 4455842073240035644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair_2_L
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 822
+        width: 25.000008
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5632347, y: 0.15332031}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471ca09a9bb86470d84bd1feccdefd92
+      internalID: 536149313869313973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair_2_R
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 824
+        width: 25
+        height: 74
+      alignment: 9
+      pivot: {x: 0.59485227, y: 0.1439506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467e7eaf3a78b4432873f73544c984fb
+      internalID: -5034606197691908342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 799
+        width: 217
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c43740dec61b42a7a45bd9ea2532327
+      internalID: 7573517944926693383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 538
+        width: 239
+        height: 239
+      alignment: 9
+      pivot: {x: 0.5103392, y: 0.120893784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20b7edf55da5478f9fcdc8489a6d5bc
+      internalID: 4134470982481670237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pick
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 506
+        width: 271
+        height: 271
+      alignment: 9
+      pivot: {x: 0.24763405, y: 0.24763405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b700c540962e4725958c2170044e386
+      internalID: -1087978334009483331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leg_L
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 503.52438
+        width: 99
+        height: 31.053375
+      alignment: 9
+      pivot: {x: 0.8345958, y: 0.49835736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ef315cf1e4443ffaf3492072b74af7
+      internalID: 7566850905532659034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feet_L
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 505
+        width: 44
+        height: 27
+      alignment: 9
+      pivot: {x: 0.72317296, y: 0.46502912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3094a4b84a3414abc9c890be09ca0248
+      internalID: -5589404826669784368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feet_R
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 505
+        width: 44
+        height: 27
+      alignment: 9
+      pivot: {x: 0.7317564, y: 0.4720233}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954302660f9e14cbba2785744135367b
+      internalID: 6660334695681761772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leg_R
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 478.36905
+        width: 99
+        height: 31.23645
+      alignment: 9
+      pivot: {x: 0.1690737, y: 0.45619977}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6275cb4cd695744aab9612995af6ee21
+      internalID: -4133256247915656930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_L
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 451
+        width: 58
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b28c82af6f54251b28ffaa1bcfeec9
+      internalID: 8918266014200804159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand_R
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 450
+        width: 58
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb2a7c224777402facdf7ca902c3cfb
+      internalID: 1864099957758329587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arm_L
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 449.8328
+        width: 100
+        height: 34.434418
+      alignment: 9
+      pivot: {x: 0.8105467, y: 0.48351702}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80a79e4136aa4ce4b2d7488e5408184
+      internalID: 228718350410794127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arm_R
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 422.98788
+        width: 99
+        height: 33.596466
+      alignment: 9
+      pivot: {x: 0.17586043, y: 0.4914846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e90a3b7710bd4713b77b78405376d11
+      internalID: 6082866301378654860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tip_L
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 422
+        width: 39
+        height: 32
+      alignment: 9
+      pivot: {x: 0.6846411, y: 0.3697176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd05a9abda8544853809d09c1bdd0f6a
+      internalID: 5671107614470373194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tip_R
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 422
+        width: 39
+        height: 32
+      alignment: 9
+      pivot: {x: 0.67492324, y: 0.40524864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d042f19ee40844967b815666b206f0c5
+      internalID: 7563934263933779001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye_L
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 396
+        width: 28
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc77110403d26409a917412a516e3424
+      internalID: 2585471672362418991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye_R
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 393.99997
+        width: 28
+        height: 28.00003
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50000054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5129bdd81dcad44b6959f788e073cb8c
+      internalID: 1989635136803845380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mouth
+      rect:
+        serializedVersion: 2
+        x: 19.500004
+        y: 365.79358
+        width: 55.999996
+        height: 20.448639
+      alignment: 9
+      pivot: {x: 0.50892854, y: 0.4991247}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4cfc308159f41039e35b4ccd9891a4
+      internalID: -3337633190303562721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eyeb_L
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 340
+        width: 19
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed6064012fe34a6599631109cc50f2b
+      internalID: 580948835330097298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eyeb_R
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 340
+        width: 19
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff99c1293e78471795d5c6111684f0b
+      internalID: -3157883734954086154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 637161480730000000
+  assetBundleName: 
+  assetBundleVariant: 
