@@ -18,11 +18,11 @@ We should use various items to stop ants that make the wrong way. Let's lure the
 <h4>아이템 설명</h4>
  <table border="0">
 			<tr>
-	    			<td> 꿀 </td>
+	    			<td> <img src="RePairAnt/Assets/resources/Sprite/Honey.png" width="5%"> </td>
 	    			<td> 일정 시간 광부개미를 유인합니다. </td>
 			</tr>
       <tr>
-	    			<td> 나무벽<img src="./Image/Idle.gif" width="100%">  </td>
+	    			<td> 나무벽  </td>
 	    			<td> 길을 잠깐 막아줍니다. </td>
 			</tr>
       <tr>
