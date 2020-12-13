@@ -72,9 +72,9 @@ Ko JunYeol : Art
 
 <h1> </h1>
 
-<플레이 영상 : https://drive.google.com/open?id=1yHTNHphZAwwMZVwdfkK9ucx_ScdmJ5Dq>
+<플레이 영상 : https://drive.google.com/open?id=1yHTNHphZAwwMZVwdfkK9ucx_ScdmJ5Dq >
 
-<게임잼 사이트 : https://globalgamejam.org/2020/games/anter-1>
+<게임잼 사이트 : https://globalgamejam.org/2020/games/anter-1 >
 
 
 <h1> ※ Game 파일에 게임이 들어있어요!! ※ </h1>
